@@ -1,114 +1,114 @@
 Monday
-MATH 421:  The Theory of Single Variable Calculus
+MATH 490:  Undergraduate Seminar
 LEC 001
-6203 Sewell Social Sciences
-8:50 AM to 9:40 AM
+B215 Van Vleck Hall
+9:55 AM to 10:45 AM
 
-E C E 352:  Digital System Fundamentals
-LEC 001
-311 Wendt Commons
-11:00 AM to 11:50 AM
-
-MATH 475:  Introduction to Combinatorics
-LEC 001
-115 Van Hise Hall
+MATH 521:  Analysis I
+LEC 002
+B119 Van Vleck Hall
 12:05 PM to 12:55 PM
 
-E C E 352:  Digital System Fundamentals
-LAB 304
+E C E 230:  Circuit Analysis
+LEC 001
+410 Wendt Commons
+1:20 PM to 2:10 PM
+
+E C E 230:  Circuit Analysis
+LEC 001
+410A Wendt Commons
+1:20 PM to 2:10 PM
+
+E C E 270:  Circuits Laboratory I
+LAB 001
 3654 Engineering Hall
-5:30 PM to 7:30 PM
+2:25 PM to 3:15 PM
 
 Tuesday
-E C E 203:  Signals, Information, and Computation
+L I S 351:  Introduction to Digital Information
+LAB 303
+4160 Helen C. White Hall
+9:55 AM to 10:45 AM
+
+COMP SCI 300:  Programming II
+LEC 001
+145 Birge Hall
+11:00 AM to 12:15 PM
+
+E C E 230:  Circuit Analysis
 LEC 001
 410 Wendt Commons
-11:00 AM to 12:15 PM
-
-E C E 203:  Signals, Information, and Computation
-LEC 001
-410A Wendt Commons
-11:00 AM to 12:15 PM
-
-CNSR SCI 111:  Financial Life Skills for Undergraduates
-LEC 002
-122 Ingraham Hall
-12:05 PM to 12:55 PM
-
-PHYSICS 202:  General Physics
-LEC 001
-2103 Chamberlin Hall
 1:20 PM to 2:10 PM
 
-PHYSICS 202:  General Physics
-LAB 622
-3310 Chamberlin Hall
-3:30 PM to 6:25 PM
+E C E 230:  Circuit Analysis
+LEC 001
+410A Wendt Commons
+1:20 PM to 2:10 PM
+
+E C E 219:  Analytical Methods for Electromagnetics Engineering
+LEC 001
+311 Wendt Commons
+2:30 PM to 3:45 PM
 
 Wednesday
-MATH 421:  The Theory of Single Variable Calculus
+MATH 490:  Undergraduate Seminar
 LEC 001
-6203 Sewell Social Sciences
-8:50 AM to 9:40 AM
+B215 Van Vleck Hall
+9:55 AM to 10:45 AM
 
-E C E 352:  Digital System Fundamentals
-LEC 001
-410 Wendt Commons
-11:00 AM to 11:50 AM
-
-E C E 352:  Digital System Fundamentals
-LEC 001
-410A Wendt Commons
-11:00 AM to 11:50 AM
-
-MATH 475:  Introduction to Combinatorics
-LEC 001
-115 Van Hise Hall
+MATH 521:  Analysis I
+LEC 002
+B119 Van Vleck Hall
 12:05 PM to 12:55 PM
 
-PHYSICS 202:  General Physics
-DIS 322
-209 Van Hise Hall
+E C E 230:  Circuit Analysis
+LEC 001
+1610 Engineering Hall
 1:20 PM to 2:10 PM
+
+E C E 270:  Circuits Laboratory I
+LAB 001
+3654 Engineering Hall
+2:25 PM to 3:15 PM
 
 Thursday
-E C E 203:  Signals, Information, and Computation
+COMP SCI 300:  Programming II
+LEC 001
+145 Birge Hall
+11:00 AM to 12:15 PM
+
+E C E 230:  Circuit Analysis
 LEC 001
 410 Wendt Commons
-11:00 AM to 12:15 PM
+1:20 PM to 2:10 PM
 
-E C E 203:  Signals, Information, and Computation
+E C E 230:  Circuit Analysis
 LEC 001
 410A Wendt Commons
-11:00 AM to 12:15 PM
-
-PHYSICS 202:  General Physics
-LEC 001
-2103 Chamberlin Hall
 1:20 PM to 2:10 PM
+
+E C E 219:  Analytical Methods for Electromagnetics Engineering
+LEC 001
+311 Wendt Commons
+2:30 PM to 3:45 PM
 
 Friday
-MATH 421:  The Theory of Single Variable Calculus
+MATH 490:  Undergraduate Seminar
 LEC 001
-6203 Sewell Social Sciences
-8:50 AM to 9:40 AM
+B215 Van Vleck Hall
+9:55 AM to 10:45 AM
 
-E C E 352:  Digital System Fundamentals
-LEC 001
-410 Wendt Commons
-11:00 AM to 11:50 AM
-
-E C E 352:  Digital System Fundamentals
-LEC 001
-410A Wendt Commons
-11:00 AM to 11:50 AM
-
-MATH 475:  Introduction to Combinatorics
-LEC 001
-115 Van Hise Hall
+MATH 521:  Analysis I
+LEC 002
+B119 Van Vleck Hall
 12:05 PM to 12:55 PM
 
-PHYSICS 202:  General Physics
-DIS 322
-209 Van Hise Hall
+MUSIC 113:  Music in Performance
+LEC 001
+2340 Mosse Humanities Building
 1:20 PM to 2:10 PM
+
+E C E 270:  Circuits Laboratory I
+LAB 001
+3654 Engineering Hall
+2:25 PM to 3:15 PM
